@@ -1,2 +1,3 @@
-## Hello, Git
-# This is a change made in local rep
+## Hello, Git  
+This is a change made in local rep<br>
+This is the first line.<br>This is the second line.
